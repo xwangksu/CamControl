@@ -1,0 +1,10 @@
+E:\Users\Xu\Tools\HTP_2016\Canon_Digital_SDK\CanonSDKTutorial\EDSDKLib\bin\Debug\EDSDKLib.dll
+E:\Users\Xu\Tools\HTP_2016\Canon_Digital_SDK\CanonSDKTutorial\EDSDKLib\bin\Debug\EDSDKLib.pdb
+E:\Users\Xu\Tools\HTP_2016\Canon_Digital_SDK\CanonSDKTutorial\EDSDKLib\obj\x86\Debug\EDSDKLib.dll
+E:\Users\Xu\Tools\HTP_2016\Canon_Digital_SDK\CanonSDKTutorial\EDSDKLib\obj\x86\Debug\EDSDKLib.pdb
+E:\Users\Xu\Tools\HTP_2016\Canon_Digital_SDK\CanonSDKTutorial\EDSDKLib\obj\x86\Debug\EDSDKLib.csprojResolveAssemblyReference.cache
+D:\Canon_Digital_SDK\CanonSDKTutorial\EDSDKLib\bin\Debug\EDSDKLib.dll
+D:\Canon_Digital_SDK\CanonSDKTutorial\EDSDKLib\bin\Debug\EDSDKLib.pdb
+D:\Canon_Digital_SDK\CanonSDKTutorial\EDSDKLib\obj\x86\Debug\EDSDKLib.csprojResolveAssemblyReference.cache
+D:\Canon_Digital_SDK\CanonSDKTutorial\EDSDKLib\obj\x86\Debug\EDSDKLib.dll
+D:\Canon_Digital_SDK\CanonSDKTutorial\EDSDKLib\obj\x86\Debug\EDSDKLib.pdb
